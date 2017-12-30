@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=aeHfqk0cVOE
 go get github.com/go-gl/gl/v2.1/gl
 
 go get github.com/go-gl/glfw/v3.1/glfw
-<pre>
+</pre>
+
 forked by https://github.com/medvednikov/go-tetris
 <img src='https://raw.githubusercontent.com/medvednikov/go-tetris/screenshot/screenshot.png' width=250>
