@@ -1,4 +1,4 @@
-Golang da yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
+Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
 
 Windows install Opengl 
 
