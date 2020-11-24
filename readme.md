@@ -13,6 +13,8 @@ pacman -S mingw-w64-x86_64-gdb  --disable-download-timeout
 MSYS2 ve GCC'yi güncelleme için MSYS2 terminaline ara ara şu kodu girip kontrol edin:
 pacman -Syu --disable-download-timeout
 
+make -f Makefile
+
 
 Video Tutorials 
 https://www.youtube.com/watch?v=aeHfqk0cVOE
