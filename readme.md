@@ -3,14 +3,23 @@ Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye d
 Windows install Opengl 
 
 First gcc install http://www.msys2.org/
+
 pacman -Su
-pacman -S base-devel gcc vim cmake
+
+pacman -S  gcc cmake
+
+pacman -S base-devel gcc cmake
+
 or 
+
 pacman -S mingw-w64-x86_64-gcc  --disable-download-timeout
+
 pacman -S mingw-w64-x86_64-make  --disable-download-timeout
+
 pacman -S mingw-w64-x86_64-gdb  --disable-download-timeout
 
 MSYS2 ve GCC'yi güncelleme için MSYS2 terminaline ara ara şu kodu girip kontrol edin:
+
 pacman -Syu --disable-download-timeout
 
 make -f Makefile
