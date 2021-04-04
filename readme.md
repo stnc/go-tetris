@@ -1,3 +1,6 @@
+<img src='https://raw.githubusercontent.com/medvednikov/go-tetris/screenshot/screenshot.png' width=250>
+
+
 Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
 
 Windows install Opengl 
@@ -39,4 +42,3 @@ go get github.com/go-gl/glfw/v3.1/glfw
 forked by https://github.com/medvednikov/go-tetris
 
 
-<img src='https://raw.githubusercontent.com/medvednikov/go-tetris/screenshot/screenshot.png' width=250>
