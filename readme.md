@@ -3,6 +3,9 @@
 
 Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
 
+I will continue to improve the tetris game I am working on with Golang as time goes.
+
+
 Windows install Opengl 
 
 First gcc install http://www.msys2.org/
