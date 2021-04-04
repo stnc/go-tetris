@@ -1,12 +1,11 @@
 package tetris
 
-
 import (
-"math/rand"
-"time"
+	"math/rand"
+	"time"
 
-"github.com/go-gl/gl/v2.1/gl"
-"github.com/go-gl/glfw/v3.1/glfw"
+	"github.com/go-gl/gl/v2.1/gl"
+	"github.com/go-gl/glfw/v3.1/glfw"
 )
 
 const (
@@ -21,6 +20,7 @@ const (
 
 	TimerPeriod = 250 // milliseconds
 )
+
 type Point struct{ X, Y int }
 type Color struct{ R, G, B int }
 
@@ -302,4 +302,3 @@ func Square(p1, p2, p3, p4 Point) {
 	glVertex(p4.X, p4.Y)
 	gl.End()
 }
-

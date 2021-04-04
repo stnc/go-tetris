@@ -1,14 +1,14 @@
 package main
 
 import (
-	"runtime"//bununla buradaki inint bağlantılı neden ?
+	"runtime" //bununla buradaki inint bağlantılı neden ?
 	"time"
-	"stnc/tetris"
+
+	"goTetris/app/tetris"
+
 	"github.com/go-gl/gl/v2.1/gl"
 	"github.com/go-gl/glfw/v3.1/glfw"
 )
-
-
 
 func init() {
 	runtime.LockOSThread()
@@ -48,7 +48,7 @@ func main() {
 	gl.ClearColor(255, 255, 255, 0)
 	gl.LineWidth(1)
 	gl.Color3f(1, 0, 0)
-	for !	tetris.Window.ShouldClose() {
+	for !tetris.Window.ShouldClose() {
 		tetris.DrawScene()
 		glfw.PollEvents()
 	}
