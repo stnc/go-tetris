@@ -6,7 +6,7 @@ Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye d
 I will continue to improve the tetris game I am working on with Golang as time goes.
 
 
-Windows install Opengl 
+## Windows install Opengl 
 
 First gcc install http://www.msys2.org/
 
@@ -16,7 +16,7 @@ pacman -S  gcc cmake
 
 pacman -S base-devel gcc cmake
 
-or 
+## or 
 
 pacman -S mingw-w64-x86_64-gcc  --disable-download-timeout
 
