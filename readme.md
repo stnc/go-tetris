@@ -1,10 +1,11 @@
 <img src='https://raw.githubusercontent.com/medvednikov/go-tetris/screenshot/screenshot.png' width=250>
 
 
-Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
+
 
 I will continue to improve the tetris game I am working on with Golang as time goes.
 
+Golang ile yapmaya çalıştığım tetris oyunu zaman buldukça geliştirmeye devam edeceğim 
 
 ## Windows install Opengl 
 
